@@ -1,0 +1,33 @@
+.quickShortcut{
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+    margin-right: 1rem;
+    align-items: center;
+}
+
+.homeIcon{
+    color:  #7289DA;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.homeIcon span{
+    border-bottom: 2px solid var(--shade-color-2);
+    width: 50%;
+    margin-bottom: .5rem;
+}
+
+.shortcutsMain{
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    margin: 0;
+}
+
+.shortcutsOther{
+    display: flex;
+    flex-direction: column;
+    color: #93C572;
+}

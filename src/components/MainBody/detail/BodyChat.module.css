@@ -1,0 +1,25 @@
+
+.chat{
+    margin: .5rem;
+    margin-left: 1rem;
+}
+
+.listItem{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 1rem;
+    align-items: center;
+}
+
+.userDetails{
+    display: flex;
+    flex-direction: column;
+}
+
+.name{
+    margin-left: .5rem;
+}
+
+.message{
+    margin-left: .5rem;
+}

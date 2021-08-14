@@ -1,0 +1,16 @@
+.bodyDetail{
+    display: flex;
+    flex-direction: row;
+}
+
+.bodyTournament{
+    flex-basis: 80%;
+    height: 92.8vh;
+}
+
+.bodyChat{
+    flex-basis: 20%;
+    background: var(--shade-color-2);
+    height: 92.8vh;
+    overflow-y: scroll;
+}

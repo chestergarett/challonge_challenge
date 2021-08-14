@@ -1,0 +1,24 @@
+.mainSidebar{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    
+}
+
+.sidebarHeader{
+    flex-basis: 5%;
+    border-bottom: 1px solid black;
+    box-shadow: var(--box-shadow-bottom);
+}
+
+.sidebarDetails{
+    flex-basis: 89%;
+    margin-left: .5rem;
+    margin-top: .5rem;
+}
+
+.sidebarFooter{
+    flex-basis: 6%;
+    border-top: 1px solid black;
+    box-shadow: var(--box-shadow-top);
+}

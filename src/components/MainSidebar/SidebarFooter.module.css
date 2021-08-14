@@ -1,0 +1,23 @@
+
+.footer{
+    display: flex;
+    margin: .5rem;
+    justify-content: space-between;
+}
+
+.user{
+    display: flex;
+    align-items: center;
+    flex-basis: 65%;
+}
+
+.user span{
+    font-size: 12px;
+    margin-left: .3rem;
+}
+
+.icons{
+    display: flex;
+    justify-content: space-between;
+    flex-basis: 35%;
+}

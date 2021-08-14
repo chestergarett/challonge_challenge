@@ -1,0 +1,39 @@
+.message{
+    display: flex;
+    padding: .5rem;
+    margin: 1rem;
+    align-items: center;
+    border: none;
+    box-shadow: none;
+    background-color: transparent;
+    color: whitesmoke;
+}
+
+.sent{
+    flex-direction: row-reverse;
+}
+
+.received{
+    justify-content: flex-start;
+}
+
+.avatarImg{
+    flex-basis: 10%;
+    width: 40px;
+    margin: 0;
+    border-radius: 50%;
+}
+
+.messageText{
+    border-bottom-left-radius: 4px;
+    border-top-right-radius: 18px;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    word-wrap: break-word;
+    flex-basis: 90%;
+    margin-left: .5rem;
+}
+
+.messageSent{
+    margin-left: 6rem;
+}

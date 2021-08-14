@@ -1,0 +1,13 @@
+.mainBody{
+    display: flex;
+    flex-direction: column;
+}
+
+.mainHeader{
+    flex-basis: 10%;
+    box-shadow: var(--box-shadow-bottom);
+}
+
+.mainDetail{
+    flex-basis: 90%;
+}

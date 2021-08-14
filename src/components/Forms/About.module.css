@@ -1,0 +1,15 @@
+
+.about{
+    display: flex;
+    flex-direction: column;
+}
+
+.about h2{
+    margin: .5rem;
+    color: lightseagreen;
+}
+
+.about p{
+    text-align: justify;
+    margin-left: .5rem;
+}

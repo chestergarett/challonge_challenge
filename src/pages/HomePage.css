@@ -1,0 +1,21 @@
+.main-app{
+    display: flex;
+    height: 100vh;
+    color: var(--font-color-main);
+}
+
+.quick-shortcut-sidebar{
+    flex-basis: 5%;
+    background: var(--shade-color-1);
+}
+
+.main-sidebar{
+    flex-basis: 15%;
+    background: var(--shade-color-2);
+}
+
+.main-body{
+    flex-basis: 80%;
+    background: var(--shade-color-3);
+}
+
