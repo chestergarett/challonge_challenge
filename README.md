@@ -5,3 +5,15 @@ view app here: https://sportsapp-86653.firebaseapp.com/
 
 You can view the issues log for the ongoing features that are not yet deployed. If you have encountered bugs in the app don't hesitate to reach out to me.
 
+LOGIN via OAuth2 - hosted by Firebase
+![image](https://user-images.githubusercontent.com/71489331/130067998-2298c592-7473-4cf9-9bb4-eb84e6ab86c9.png)
+
+____________________________________________________________________________________________________________________________
+![image](https://user-images.githubusercontent.com/71489331/130068172-1e2fa256-a878-4ba2-af5e-ab1ee9ab64db.png)
+
+
+____________________________________________________________________________________________________________________________
+![image](https://user-images.githubusercontent.com/71489331/130068265-06402fd0-4c77-4d86-9183-46b0cd43d5aa.png)
+
+
+
